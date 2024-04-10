@@ -1,0 +1,5 @@
+print("Hello, World")
+print(11 + 10 + 1000)
+print(1.6 + 1 +0.8)
+print(True)
+print("Python")
