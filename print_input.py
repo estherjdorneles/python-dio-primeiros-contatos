@@ -1,0 +1,7 @@
+name = input("informe seu nome: ")
+age = input("informe sua idade: ")
+print(f"Olá, {name} ")
+print(f"Eu também tenho {age} anos")
+print(name, age, end="...\n")
+print(name, age, sep="-" , end="...\n")
+print(name, age, sep="#")
